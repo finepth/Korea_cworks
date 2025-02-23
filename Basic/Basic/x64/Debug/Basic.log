@@ -1,2 +1,8 @@
-﻿  Calculatormain.c
-  Basic.vcxproj -> C:\cworks\Basic\x64\Debug\Basic.exe
+﻿  UpperCase.c
+C:\cworks\Basic\Basic\UpperCase.c(18,11): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\cworks\Basic\Basic\UpperCase.c(28,2): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\cworks\Basic\Basic\UpperCase.c(29,7): error C2065: 'data': 선언되지 않은 식별자입니다.
+C:\cworks\Basic\Basic\UpperCase.c(29,22): error C2065: 'data': 선언되지 않은 식별자입니다.
+C:\cworks\Basic\Basic\UpperCase.c(31,4): error C2065: 'data': 선언되지 않은 식별자입니다.
+C:\cworks\Basic\Basic\UpperCase.c(31,11): error C2065: 'data': 선언되지 않은 식별자입니다.
+C:\cworks\Basic\Basic\UpperCase.c(33,16): error C2065: 'data': 선언되지 않은 식별자입니다.

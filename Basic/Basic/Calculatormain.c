@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "Calculator.h"
 
-int main()
+int main_calculatormain()
 {
 	int x = 3, y = 4, result;
 	count++;

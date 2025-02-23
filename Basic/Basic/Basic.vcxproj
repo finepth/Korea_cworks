@@ -132,6 +132,8 @@
     <ClCompile Include="input.c" />
     <ClCompile Include="Output.c" />
     <ClCompile Include="staticvar.c" />
+    <ClCompile Include="StringFunction.c" />
+    <ClCompile Include="UpperCase.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Calculator.h" />

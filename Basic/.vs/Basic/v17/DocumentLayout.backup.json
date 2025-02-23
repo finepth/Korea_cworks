@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\cworks\\Basic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECA1F5DE-29D1-494A-8948-46364DBBA1F3}|Basic\\Basic.vcxproj|C:\\cworks\\Basic\\Basic\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ECA1F5DE-29D1-494A-8948-46364DBBA1F3}|Basic\\Basic.vcxproj|solutionrelative:Basic\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{ECA1F5DE-29D1-494A-8948-46364DBBA1F3}|Basic\\Basic.vcxproj|C:\\cworks\\Basic\\Basic\\UpperCase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECA1F5DE-29D1-494A-8948-46364DBBA1F3}|Basic\\Basic.vcxproj|solutionrelative:Basic\\UpperCase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA1F5DE-29D1-494A-8948-46364DBBA1F3}|Basic\\Basic.vcxproj|C:\\cworks\\Basic\\Basic\\StringFunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECA1F5DE-29D1-494A-8948-46364DBBA1F3}|Basic\\Basic.vcxproj|solutionrelative:Basic\\StringFunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECA1F5DE-29D1-494A-8948-46364DBBA1F3}|Basic\\Basic.vcxproj|C:\\cworks\\Basic\\Basic\\Calculatormain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -13,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{ECA1F5DE-29D1-494A-8948-46364DBBA1F3}|Basic\\Basic.vcxproj|C:\\cworks\\Basic\\Basic\\Calculator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ECA1F5DE-29D1-494A-8948-46364DBBA1F3}|Basic\\Basic.vcxproj|solutionrelative:Basic\\Calculator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA1F5DE-29D1-494A-8948-46364DBBA1F3}|Basic\\Basic.vcxproj|C:\\cworks\\Basic\\Basic\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECA1F5DE-29D1-494A-8948-46364DBBA1F3}|Basic\\Basic.vcxproj|solutionrelative:Basic\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,19 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UpperCase.c",
+              "DocumentMoniker": "C:\\cworks\\Basic\\Basic\\UpperCase.c",
+              "RelativeDocumentMoniker": "Basic\\UpperCase.c",
+              "ToolTip": "C:\\cworks\\Basic\\Basic\\UpperCase.c*",
+              "RelativeToolTip": "Basic\\UpperCase.c*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-23T02:24:25.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringFunction.c",
+              "DocumentMoniker": "C:\\cworks\\Basic\\Basic\\StringFunction.c",
+              "RelativeDocumentMoniker": "Basic\\StringFunction.c",
+              "ToolTip": "C:\\cworks\\Basic\\Basic\\StringFunction.c",
+              "RelativeToolTip": "Basic\\StringFunction.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-23T01:45:02.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Calculator.h",
               "DocumentMoniker": "C:\\cworks\\Basic\\Basic\\Calculator.h",
               "RelativeDocumentMoniker": "Basic\\Calculator.h",
               "ToolTip": "C:\\cworks\\Basic\\Basic\\Calculator.h",
               "RelativeToolTip": "Basic\\Calculator.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-02-23T00:38:37.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Calculator.c",
               "DocumentMoniker": "C:\\cworks\\Basic\\Basic\\Calculator.c",
               "RelativeDocumentMoniker": "Basic\\Calculator.c",
@@ -52,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Calculatormain.c",
               "DocumentMoniker": "C:\\cworks\\Basic\\Basic\\Calculatormain.c",
               "RelativeDocumentMoniker": "Basic\\Calculatormain.c",
               "ToolTip": "C:\\cworks\\Basic\\Basic\\Calculatormain.c",
               "RelativeToolTip": "Basic\\Calculatormain.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-23T00:31:37.234Z",
               "EditorCaption": ""

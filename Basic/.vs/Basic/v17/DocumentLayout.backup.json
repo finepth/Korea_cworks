@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\cworks\\Basic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECA1F5DE-29D1-494A-8948-46364DBBA1F3}|Basic\\Basic.vcxproj|C:\\cworks\\Basic\\Basic\\UpperCase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ECA1F5DE-29D1-494A-8948-46364DBBA1F3}|Basic\\Basic.vcxproj|solutionrelative:Basic\\UpperCase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ECA1F5DE-29D1-494A-8948-46364DBBA1F3}|Basic\\Basic.vcxproj|C:\\cworks\\Basic\\Basic\\StringFunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ECA1F5DE-29D1-494A-8948-46364DBBA1F3}|Basic\\Basic.vcxproj|solutionrelative:Basic\\StringFunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA1F5DE-29D1-494A-8948-46364DBBA1F3}|Basic\\Basic.vcxproj|C:\\cworks\\Basic\\Basic\\UpperCase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECA1F5DE-29D1-494A-8948-46364DBBA1F3}|Basic\\Basic.vcxproj|solutionrelative:Basic\\UpperCase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECA1F5DE-29D1-494A-8948-46364DBBA1F3}|Basic\\Basic.vcxproj|C:\\cworks\\Basic\\Basic\\Calculatormain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,24 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UpperCase.c",
               "DocumentMoniker": "C:\\cworks\\Basic\\Basic\\UpperCase.c",
               "RelativeDocumentMoniker": "Basic\\UpperCase.c",
-              "ToolTip": "C:\\cworks\\Basic\\Basic\\UpperCase.c*",
-              "RelativeToolTip": "Basic\\UpperCase.c*",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "ToolTip": "C:\\cworks\\Basic\\Basic\\UpperCase.c",
+              "RelativeToolTip": "Basic\\UpperCase.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAWwBwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-23T02:24:25.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StringFunction.c",
               "DocumentMoniker": "C:\\cworks\\Basic\\Basic\\StringFunction.c",
               "RelativeDocumentMoniker": "Basic\\StringFunction.c",
@@ -68,8 +68,7 @@
               "RelativeToolTip": "Basic\\Calculator.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-23T00:38:37.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T00:38:37.971Z"
             },
             {
               "$type": "Document",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "Basic\\Calculator.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-23T00:37:26.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T00:37:26.706Z"
             },
             {
               "$type": "Document",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "Basic\\Calculatormain.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-23T00:31:37.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T00:31:37.234Z"
             }
           ]
         }

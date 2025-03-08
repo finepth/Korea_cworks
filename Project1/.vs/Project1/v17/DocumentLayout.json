@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{730AEE25-2E03-48AC-B608-1E9F75E68085}|Project1\\Project1.vcxproj|C:\\cworks\\Project1\\Project1\\arrayaddremove2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{730AEE25-2E03-48AC-B608-1E9F75E68085}|Project1\\Project1.vcxproj|solutionrelative:Project1\\arrayaddremove2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730AEE25-2E03-48AC-B608-1E9F75E68085}|Project1\\Project1.vcxproj|C:\\cworks\\Project1\\Project1\\arrayaddremove.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{730AEE25-2E03-48AC-B608-1E9F75E68085}|Project1\\Project1.vcxproj|solutionrelative:Project1\\arrayaddremove.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "arrayaddremove2.c",
+              "DocumentMoniker": "C:\\cworks\\Project1\\Project1\\arrayaddremove2.c",
+              "RelativeDocumentMoniker": "Project1\\arrayaddremove2.c",
+              "ToolTip": "C:\\cworks\\Project1\\Project1\\arrayaddremove2.c",
+              "RelativeToolTip": "Project1\\arrayaddremove2.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-08T00:36:47.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "arrayaddremove.c",
+              "DocumentMoniker": "C:\\cworks\\Project1\\Project1\\arrayaddremove.c",
+              "RelativeDocumentMoniker": "Project1\\arrayaddremove.c",
+              "ToolTip": "C:\\cworks\\Project1\\Project1\\arrayaddremove.c",
+              "RelativeToolTip": "Project1\\arrayaddremove.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-08T00:13:26.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

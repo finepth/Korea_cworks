@@ -1,2 +1,13 @@
-﻿  arrayaddremove2.c
-  Project1.vcxproj -> C:\cworks\Project1\x64\Debug\Project1.exe
+﻿  StringGetchar.c
+C:\cworks\Project1\Project1\StringGetchar.c(5,1): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\cworks\Project1\Project1\StringGetchar.c(33,1): error C2059: 구문 오류: '}'
+  TypingGame.c
+C:\cworks\Project1\Project1\TypingGame.c(17,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\cworks\Project1\Project1\TypingGame.c(30,11): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+      C:\cworks\Project1\Project1\TypingGame.c(30,11):
+      이 인수는 버퍼 크기로 사용됩니다.
+  
+C:\cworks\Project1\Project1\TypingGame.c(32,7): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\cworks\Project1\Project1\TypingGame.c(42,6): warning C4552: '-': 식의 결과가 사용되지 않습니다.
+  코드를 생성하고 있습니다...
+C:\cworks\Project1\Project1\TypingGame.c(43,1): error C4700: 초기화되지 않은 'end' 지역 변수를 사용했습니다.

@@ -23,6 +23,7 @@
     <ClCompile Include="ChangeArray.c" />
     <ClCompile Include="Pointer.c" />
     <ClCompile Include="PointerArray.c" />
+    <ClCompile Include="PointerString.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

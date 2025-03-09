@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define MAX_LEN 4
 
-int main()
+int main_ArrayRemove2()
 {
 	int cartrs[MAX_LEN];
 	int indx0fCarts = 0;

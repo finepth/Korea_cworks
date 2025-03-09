@@ -21,5 +21,17 @@
     <ClCompile Include="arrayaddremove2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Array2D.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Rand.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StringGetchar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TypingGame.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

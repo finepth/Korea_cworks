@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\cworks\\Project1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{730AEE25-2E03-48AC-B608-1E9F75E68085}|Project1\\Project1.vcxproj|C:\\cworks\\Project1\\Project1\\TypingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{730AEE25-2E03-48AC-B608-1E9F75E68085}|Project1\\Project1.vcxproj|solutionrelative:Project1\\TypingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730AEE25-2E03-48AC-B608-1E9F75E68085}|Project1\\Project1.vcxproj|C:\\cworks\\Project1\\Project1\\StringGetchar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{730AEE25-2E03-48AC-B608-1E9F75E68085}|Project1\\Project1.vcxproj|solutionrelative:Project1\\StringGetchar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730AEE25-2E03-48AC-B608-1E9F75E68085}|Project1\\Project1.vcxproj|C:\\cworks\\Project1\\Project1\\Rand.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{730AEE25-2E03-48AC-B608-1E9F75E68085}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Rand.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730AEE25-2E03-48AC-B608-1E9F75E68085}|Project1\\Project1.vcxproj|C:\\cworks\\Project1\\Project1\\Array2D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{730AEE25-2E03-48AC-B608-1E9F75E68085}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Array2D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{730AEE25-2E03-48AC-B608-1E9F75E68085}|Project1\\Project1.vcxproj|C:\\cworks\\Project1\\Project1\\arrayaddremove2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{730AEE25-2E03-48AC-B608-1E9F75E68085}|Project1\\Project1.vcxproj|solutionrelative:Project1\\arrayaddremove2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -23,19 +39,70 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "arrayaddremove2.c",
-              "DocumentMoniker": "C:\\cworks\\Project1\\Project1\\arrayaddremove2.c",
-              "RelativeDocumentMoniker": "Project1\\arrayaddremove2.c",
-              "ToolTip": "C:\\cworks\\Project1\\Project1\\arrayaddremove2.c",
-              "RelativeToolTip": "Project1\\arrayaddremove2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Title": "TypingGame.c",
+              "DocumentMoniker": "C:\\cworks\\Project1\\Project1\\TypingGame.c",
+              "RelativeDocumentMoniker": "Project1\\TypingGame.c",
+              "ToolTip": "C:\\cworks\\Project1\\Project1\\TypingGame.c",
+              "RelativeToolTip": "Project1\\TypingGame.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-08T00:36:47.004Z",
+              "WhenOpened": "2025-03-09T02:28:06.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "StringGetchar.c",
+              "DocumentMoniker": "C:\\cworks\\Project1\\Project1\\StringGetchar.c",
+              "RelativeDocumentMoniker": "Project1\\StringGetchar.c",
+              "ToolTip": "C:\\cworks\\Project1\\Project1\\StringGetchar.c",
+              "RelativeToolTip": "Project1\\StringGetchar.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-09T02:08:42.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rand.c",
+              "DocumentMoniker": "C:\\cworks\\Project1\\Project1\\Rand.c",
+              "RelativeDocumentMoniker": "Project1\\Rand.c",
+              "ToolTip": "C:\\cworks\\Project1\\Project1\\Rand.c",
+              "RelativeToolTip": "Project1\\Rand.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-09T01:26:53.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Array2D.c",
+              "DocumentMoniker": "C:\\cworks\\Project1\\Project1\\Array2D.c",
+              "RelativeDocumentMoniker": "Project1\\Array2D.c",
+              "ToolTip": "C:\\cworks\\Project1\\Project1\\Array2D.c",
+              "RelativeToolTip": "Project1\\Array2D.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-09T00:46:09.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "arrayaddremove2.c",
+              "DocumentMoniker": "C:\\cworks\\Project1\\Project1\\arrayaddremove2.c",
+              "RelativeDocumentMoniker": "Project1\\arrayaddremove2.c",
+              "ToolTip": "C:\\cworks\\Project1\\Project1\\arrayaddremove2.c",
+              "RelativeToolTip": "Project1\\arrayaddremove2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-08T00:36:47.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "arrayaddremove.c",
               "DocumentMoniker": "C:\\cworks\\Project1\\Project1\\arrayaddremove.c",
               "RelativeDocumentMoniker": "Project1\\arrayaddremove.c",
@@ -43,8 +110,7 @@
               "RelativeToolTip": "Project1\\arrayaddremove.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-08T00:13:26.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T00:13:26.073Z"
             }
           ]
         }

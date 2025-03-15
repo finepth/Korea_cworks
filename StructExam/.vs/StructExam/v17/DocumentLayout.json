@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\StructExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E0632D-1840-4BA4-BBE4-1F5FB43D86E1}|StructExam\\StructExam.vcxproj|C:\\cworks\\StructExam\\StructExam\\CalcScore.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6E0632D-1840-4BA4-BBE4-1F5FB43D86E1}|StructExam\\StructExam.vcxproj|solutionrelative:StructExam\\CalcScore.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E0632D-1840-4BA4-BBE4-1F5FB43D86E1}|StructExam\\StructExam.vcxproj|C:\\cworks\\StructExam\\StructExam\\ScoreStudent.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6E0632D-1840-4BA4-BBE4-1F5FB43D86E1}|StructExam\\StructExam.vcxproj|solutionrelative:StructExam\\ScoreStudent.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E0632D-1840-4BA4-BBE4-1F5FB43D86E1}|StructExam\\StructExam.vcxproj|C:\\cworks\\StructExam\\StructExam\\StructPerson2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6E0632D-1840-4BA4-BBE4-1F5FB43D86E1}|StructExam\\StructExam.vcxproj|solutionrelative:StructExam\\StructPerson2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E0632D-1840-4BA4-BBE4-1F5FB43D86E1}|StructExam\\StructExam.vcxproj|C:\\cworks\\StructExam\\StructExam\\StructFrut.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6E0632D-1840-4BA4-BBE4-1F5FB43D86E1}|StructExam\\StructExam.vcxproj|solutionrelative:StructExam\\StructFrut.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E0632D-1840-4BA4-BBE4-1F5FB43D86E1}|StructExam\\StructExam.vcxproj|C:\\cworks\\StructExam\\StructExam\\StructPerson1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6E0632D-1840-4BA4-BBE4-1F5FB43D86E1}|StructExam\\StructExam.vcxproj|solutionrelative:StructExam\\StructPerson1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E0632D-1840-4BA4-BBE4-1F5FB43D86E1}|StructExam\\StructExam.vcxproj|C:\\cworks\\StructExam\\StructExam\\PointRect.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6E0632D-1840-4BA4-BBE4-1F5FB43D86E1}|StructExam\\StructExam.vcxproj|solutionrelative:StructExam\\PointRect.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalcScore.c",
+              "DocumentMoniker": "C:\\cworks\\StructExam\\StructExam\\CalcScore.c",
+              "RelativeDocumentMoniker": "StructExam\\CalcScore.c",
+              "ToolTip": "C:\\cworks\\StructExam\\StructExam\\CalcScore.c",
+              "RelativeToolTip": "StructExam\\CalcScore.c",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwBUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-15T02:42:26.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StructFrut.c",
+              "DocumentMoniker": "C:\\cworks\\StructExam\\StructExam\\StructFrut.c",
+              "RelativeDocumentMoniker": "StructExam\\StructFrut.c",
+              "ToolTip": "C:\\cworks\\StructExam\\StructExam\\StructFrut.c",
+              "RelativeToolTip": "StructExam\\StructFrut.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-15T02:31:19.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScoreStudent.c",
+              "DocumentMoniker": "C:\\cworks\\StructExam\\StructExam\\ScoreStudent.c",
+              "RelativeDocumentMoniker": "StructExam\\ScoreStudent.c",
+              "ToolTip": "C:\\cworks\\StructExam\\StructExam\\ScoreStudent.c",
+              "RelativeToolTip": "StructExam\\ScoreStudent.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-15T02:09:48.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StructPerson2.c",
+              "DocumentMoniker": "C:\\cworks\\StructExam\\StructExam\\StructPerson2.c",
+              "RelativeDocumentMoniker": "StructExam\\StructPerson2.c",
+              "ToolTip": "C:\\cworks\\StructExam\\StructExam\\StructPerson2.c",
+              "RelativeToolTip": "StructExam\\StructPerson2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-15T02:02:16.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PointRect.c",
+              "DocumentMoniker": "C:\\cworks\\StructExam\\StructExam\\PointRect.c",
+              "RelativeDocumentMoniker": "StructExam\\PointRect.c",
+              "ToolTip": "C:\\cworks\\StructExam\\StructExam\\PointRect.c",
+              "RelativeToolTip": "StructExam\\PointRect.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-15T01:37:05.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StructPerson1.c",
+              "DocumentMoniker": "C:\\cworks\\StructExam\\StructExam\\StructPerson1.c",
+              "RelativeDocumentMoniker": "StructExam\\StructPerson1.c",
+              "ToolTip": "C:\\cworks\\StructExam\\StructExam\\StructPerson1.c",
+              "RelativeToolTip": "StructExam\\StructPerson1.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-15T01:08:52.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

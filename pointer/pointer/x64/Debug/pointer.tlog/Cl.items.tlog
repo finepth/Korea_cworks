@@ -1,5 +1,8 @@
 C:\cworks\pointer\pointer\CallByRef.c;C:\cworks\pointer\pointer\x64\Debug\CallByRef.obj
 C:\cworks\pointer\pointer\ChangeArray.c;C:\cworks\pointer\pointer\x64\Debug\ChangeArray.obj
+C:\cworks\pointer\pointer\MallocChar.c;C:\cworks\pointer\pointer\x64\Debug\MallocChar.obj
+C:\cworks\pointer\pointer\Mallocint2.c;C:\cworks\pointer\pointer\x64\Debug\Mallocint2.obj
+C:\cworks\pointer\pointer\Malloclnt.c;C:\cworks\pointer\pointer\x64\Debug\Malloclnt.obj
 C:\cworks\pointer\pointer\Pointer.c;C:\cworks\pointer\pointer\x64\Debug\Pointer.obj
 C:\cworks\pointer\pointer\PointerArray.c;C:\cworks\pointer\pointer\x64\Debug\PointerArray.obj
 C:\cworks\pointer\pointer\PointerString.c;C:\cworks\pointer\pointer\x64\Debug\PointerString.obj

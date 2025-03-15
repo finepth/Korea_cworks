@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\cworks\\pointer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{08858024-2AD0-43DE-B466-67D1922A030C}|pointer\\pointer.vcxproj|C:\\cworks\\pointer\\pointer\\MallocChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08858024-2AD0-43DE-B466-67D1922A030C}|pointer\\pointer.vcxproj|solutionrelative:pointer\\MallocChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08858024-2AD0-43DE-B466-67D1922A030C}|pointer\\pointer.vcxproj|C:\\cworks\\pointer\\pointer\\Mallocint2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08858024-2AD0-43DE-B466-67D1922A030C}|pointer\\pointer.vcxproj|solutionrelative:pointer\\Mallocint2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08858024-2AD0-43DE-B466-67D1922A030C}|pointer\\pointer.vcxproj|C:\\cworks\\pointer\\pointer\\Malloclnt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08858024-2AD0-43DE-B466-67D1922A030C}|pointer\\pointer.vcxproj|solutionrelative:pointer\\Malloclnt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{08858024-2AD0-43DE-B466-67D1922A030C}|pointer\\pointer.vcxproj|C:\\cworks\\pointer\\pointer\\PointerString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{08858024-2AD0-43DE-B466-67D1922A030C}|pointer\\pointer.vcxproj|solutionrelative:pointer\\PointerString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -35,19 +47,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PointerString.c",
-              "DocumentMoniker": "C:\\cworks\\pointer\\pointer\\PointerString.c",
-              "RelativeDocumentMoniker": "pointer\\PointerString.c",
-              "ToolTip": "C:\\cworks\\pointer\\pointer\\PointerString.c",
-              "RelativeToolTip": "pointer\\PointerString.c",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAAAcAAAAAAAAAA==",
+              "Title": "MallocChar.c",
+              "DocumentMoniker": "C:\\cworks\\pointer\\pointer\\MallocChar.c",
+              "RelativeDocumentMoniker": "pointer\\MallocChar.c",
+              "ToolTip": "C:\\cworks\\pointer\\pointer\\MallocChar.c",
+              "RelativeToolTip": "pointer\\MallocChar.c",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-09T00:25:09.977Z",
+              "WhenOpened": "2025-03-15T00:42:44.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Mallocint2.c",
+              "DocumentMoniker": "C:\\cworks\\pointer\\pointer\\Mallocint2.c",
+              "RelativeDocumentMoniker": "pointer\\Mallocint2.c",
+              "ToolTip": "C:\\cworks\\pointer\\pointer\\Mallocint2.c",
+              "RelativeToolTip": "pointer\\Mallocint2.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-15T00:24:19.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Malloclnt.c",
+              "DocumentMoniker": "C:\\cworks\\pointer\\pointer\\Malloclnt.c",
+              "RelativeDocumentMoniker": "pointer\\Malloclnt.c",
+              "ToolTip": "C:\\cworks\\pointer\\pointer\\Malloclnt.c",
+              "RelativeToolTip": "pointer\\Malloclnt.c",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-15T00:09:58.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PointerString.c",
+              "DocumentMoniker": "C:\\cworks\\pointer\\pointer\\PointerString.c",
+              "RelativeDocumentMoniker": "pointer\\PointerString.c",
+              "ToolTip": "C:\\cworks\\pointer\\pointer\\PointerString.c",
+              "RelativeToolTip": "pointer\\PointerString.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-09T00:25:09.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CallByRef.c",
               "DocumentMoniker": "C:\\cworks\\pointer\\pointer\\CallByRef.c",
               "RelativeDocumentMoniker": "pointer\\CallByRef.c",
@@ -55,12 +103,11 @@
               "RelativeToolTip": "pointer\\CallByRef.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-08T02:41:46.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T02:41:46.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ChangeArray.c",
               "DocumentMoniker": "C:\\cworks\\pointer\\pointer\\ChangeArray.c",
               "RelativeDocumentMoniker": "pointer\\ChangeArray.c",
@@ -72,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "PointerArray.c",
               "DocumentMoniker": "C:\\cworks\\pointer\\pointer\\PointerArray.c",
               "RelativeDocumentMoniker": "pointer\\PointerArray.c",
@@ -84,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Pointer.c",
               "DocumentMoniker": "C:\\cworks\\pointer\\pointer\\Pointer.c",
               "RelativeDocumentMoniker": "pointer\\Pointer.c",
